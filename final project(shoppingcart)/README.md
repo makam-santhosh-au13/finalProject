@@ -20,7 +20,7 @@ A E-Commerce website developed using ReactJS for the frontend, NodeJs for the ba
 ## Requirements
 To run this project, install it locally using npm:
 
-- git clone git@github.com:suhassalian27/E-Commerce-Website-using-ReactJS-NodeJS.git
+- git clone git@github.com:"https://github.com/makam-santhosh-au9/finalProject"
 ```
   $ cd E-Commerce-Website-using-ReactJS-NodeJS
 ```
